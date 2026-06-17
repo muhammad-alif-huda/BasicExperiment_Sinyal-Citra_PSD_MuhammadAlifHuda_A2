@@ -2,7 +2,7 @@
 > [cite_start]**Mata Kuliah:** Pengolahan Sinyal Digital [cite: 2]
 
 ## Identitas Mahasiswa
-* [cite_start]**Nama:** Muhammad Alif Huda Zamzami [cite: 276]
+* **Nama:** Muhammad Alif Huda Zamzami 
 * **NIM:** 452024611045
 * **Kelas:** Ti 5/ A2
 
