@@ -1,5 +1,5 @@
 # Eksperimen Operasi Dasar pada Sinyal dan Citra
-> [cite_start]**Mata Kuliah:** Pengolahan Sinyal Digital [cite: 2]
+> **Mata Kuliah:** Pengolahan Sinyal Digital 
 
 ## Identitas Mahasiswa
 * **Nama:** Muhammad Alif Huda Zamzami 
