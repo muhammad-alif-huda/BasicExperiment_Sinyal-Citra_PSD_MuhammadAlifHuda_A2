@@ -9,18 +9,18 @@
 ---
 
 ## Deskripsi Singkat Project
-[cite_start]Project ini merupakan implementasi eksperimen berbasis Python untuk menerapkan dan menganalisis berbagai operasi dasar pada sinyal 1D (diskrit) dan citra 2D[cite: 12, 277]. 
-[cite_start]Fokus utama dari project ini adalah memahami bagaimana operasi sederhana seperti penjumlahan, penggeseran (shifting), dan amplifikasi (scaling) menjadi fondasi dari konsep yang lebih besar dalam Pengolahan Sinyal Digital, 
-seperti superposisi, sistem linier, filtering, hingga augmentasi data[cite: 2, 15].
+Project ini merupakan implementasi eksperimen berbasis Python untuk menerapkan dan menganalisis berbagai operasi dasar pada sinyal 1D (diskrit) dan citra 2D
+Fokus utama dari project ini adalah memahami bagaimana operasi sederhana seperti penjumlahan, penggeseran (shifting), dan amplifikasi (scaling) menjadi fondasi dari konsep yang lebih besar dalam Pengolahan Sinyal Digital, 
+seperti superposisi, sistem linier, filtering, hingga augmentasi data
 
 ---
 
-## Library yang Digunakan
-[cite_start]Project ini dibangun menggunakan bahasa pemrograman Python dengan beberapa library utama berikut[cite: 27, 278]:
-* [cite_start]**NumPy** - Untuk komputasi matriks dan pemrosesan array sinyal/citra[cite: 28].
-* [cite_start]**Matplotlib** - Untuk visualisasi plot sinyal 1D dan penampilan citra[cite: 29].
-* [cite_start]**OpenCV (cv2) / PIL** - Untuk membaca, melakukan resize, dan memanipulasi citra 2D[cite: 30].
-* [cite_start]**SciPy** - *(Jika diperlukan)* Untuk pendukung pemrosesan sinyal[cite: 31].
+## Library yang Digunaka
+Project ini dibangun menggunakan bahasa pemrograman Python dengan beberapa library utama berikut:
+* **NumPy** - Untuk komputasi matriks dan pemrosesan array sinyal/citra.
+* **Matplotlib** - Untuk visualisasi plot sinyal 1D dan penampilan citra.
+* **OpenCV (cv2) / PIL** - Untuk membaca, melakukan resize, dan memanipulasi citra 2D.
+* **SciPy** - *(Jika diperlukan)* Untuk pendukung pemrosesan sinyal.
 
 ---
 
