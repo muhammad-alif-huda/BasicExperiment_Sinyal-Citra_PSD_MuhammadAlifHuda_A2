@@ -28,9 +28,9 @@ Project ini dibangun menggunakan bahasa pemrograman Python dengan beberapa libra
 
 
 Cara Menjalankan Notebook
-Buka notebook menggunakan Jupyter, Google Colab, atau environment Python lokal dengan mengikuti langkah-langkah berikut
-git clone [https://github.com/](https://github.com/TugasEksperiment_PSD1_MuhammadAlifHudaZamzami_A2.git
-cd operasi-dasar-sinyal-citra
+Buka notebook menggunakan Jupyter, Google Colab, atau environment Python lokal dengan link berikut
+git clone [[https://github.com/](https://github.com/TugasEksperiment_PSD1_MuhammadAlifHudaZamzami_A2.git
+cd operasi-dasar-sinyal-citra](https://github.com/muhammad-alif-huda/BasicExperiment_Sinyal-Citra_PSD_MuhammadAlifHuda_A2/tree/main)
 
 instalasi Library (Dependencies)
 pip install -r requirements.txt
